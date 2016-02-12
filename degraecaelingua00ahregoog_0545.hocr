@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./degraecaelingua00ahregoog_0545.png"; bbox 0 0 906 1379; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 167 407 213">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 167 407 213">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 167 407 213; baseline -0.021 -9"><span class='ocrx_word' id='word_1_1' title='bbox 262 193 287 204; x_wconf 48' lang='lat' dir='ltr'>v„</span> <span class='ocrx_word' id='word_1_2' title='bbox 298 181 346 213; x_wconf 51' lang='lat'><em>512&#39;2</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 355 167 407 201; x_wconf 23' lang='lat' dir='ltr'>hall*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 476 163 616 204">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 476 163 616 204">
+     <span class='ocr_line' id='line_1_2' title="bbox 476 163 616 204; baseline 0.007 -12"><span class='ocrx_word' id='word_1_4' title='bbox 476 167 521 204; x_wconf 64' lang='grc' dir='ltr'>ξψᾶ</span> <span class='ocrx_word' id='word_1_5' title='bbox 538 163 616 193; x_wconf 54' lang='grc' dir='ltr'>ΙτῖᾹέι..Ι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
